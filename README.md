@@ -25,6 +25,9 @@ A basic differential amplifier can be implemented using transistors (BJT or MOSF
 Design and analyze the differential amplifier for the following specs:  
 vdd=3.3v p<=3mW  vicm=1.65V vocm=1.7V vp=0.5V .Perfrom DC analysis,transient analysis,AC analysis in LT spice  
 # CIRCUIT 1 with resistor  
+![Image](https://github.com/user-attachments/assets/ff007a24-989b-4774-87ca-3b7feff1b002)  
+#CALCULATION  
+
 
 
 
