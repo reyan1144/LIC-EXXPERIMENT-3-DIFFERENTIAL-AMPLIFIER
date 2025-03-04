@@ -27,6 +27,8 @@ vdd=3.3v p<=3mW  vicm=1.65V vocm=1.7V vp=0.5V .Perfrom DC analysis,transient ana
 # CIRCUIT 1 with resistor  
 ![Image](https://github.com/user-attachments/assets/ff007a24-989b-4774-87ca-3b7feff1b002)  
 #CALCULATION  
+![Image](https://github.com/user-attachments/assets/c0acb823-4f24-4958-b92e-48109d3d6e6d)  
+1.1 DC ANALYSIS  
 
 
 
