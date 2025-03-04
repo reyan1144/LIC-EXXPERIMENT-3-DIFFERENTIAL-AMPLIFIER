@@ -53,6 +53,9 @@ vdd=3.3v p<=3mW  vicm=1.65V vocm=1.7V vp=0.5V .Perfrom DC analysis,transient ana
 ![Image](https://github.com/user-attachments/assets/ce977e20-ff43-4c2c-99ae-177f2d1ced06)  
 
 2.3 AC ANALYSIS  
+![Image](https://github.com/user-attachments/assets/6560bcb1-602b-46df-ac4d-6c227576fc5f)  
+
+# CIRCUIT 3 WITH NMOS  
 
 
 
