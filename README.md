@@ -60,6 +60,8 @@ vdd=3.3v p<=3mW  vicm=1.65V vocm=1.7V vp=0.5V .Perfrom DC analysis,transient ana
 3.1 DC ANALYSIS  
 ![Image](https://github.com/user-attachments/assets/f5d48a32-77ad-420e-8eeb-3e0e2945e367)  
 3.2 TRANSIENT ANALYSIS  
+![Image](https://github.com/user-attachments/assets/abddc493-9399-4d84-9410-7f60855066bc)  
+3.3 AC ANALYSIS  
 
 
 
