@@ -25,15 +25,23 @@ A basic differential amplifier can be implemented using transistors (BJT or MOSF
 Design and analyze the differential amplifier for the following specs:  
 vdd=3.3v p<=3mW  vicm=1.65V vocm=1.7V vp=0.5V .Perfrom DC analysis,transient analysis,AC analysis in LT spice  
 # CIRCUIT 1 with resistor  
-![Image](https://github.com/user-attachments/assets/ff007a24-989b-4774-87ca-3b7feff1b002)  
+![Image](https://github.com/user-attachments/assets/ff007a24-989b-4774-87ca-3b7feff1b002) 
+# PROCEDURE  
+1.Open the LTspice software, merge the library file for getting accurate values of NMOS.  
+2.Select the components which are needed  from the components list.  
+3.Place them all components , connect all the components as in given circuit .  
+4.Lets do the DC Analysis first by selecting configure analysis in that selet .op and do the simulation.  
+5.After that lets take Transient analysis of 3m.  
+6.For AC analysis, we should do some changes like converting DC SOURCE to sinosoidal waveform (1.2,50m,1T),after that select the AC simulation from the given options of simulation after giving values of (Decade,20,01,1T). So we will get a output after placing node to output waveform .  
 #CALCULATION  
 ![Image](https://github.com/user-attachments/assets/c0acb823-4f24-4958-b92e-48109d3d6e6d)  
 1.1 DC ANALYSIS  
 ![Image](https://github.com/user-attachments/assets/f173714c-256f-4be5-9017-14eaa2ebecc8)  
 
 1.2 TRANSIENT ANALYSIS  
+![Image](https://github.com/user-attachments/assets/a919dad9-6dae-4633-a26f-e51a1a1bd020)  
 
-
+1.3 AC ANALYSIS
 
 
 
