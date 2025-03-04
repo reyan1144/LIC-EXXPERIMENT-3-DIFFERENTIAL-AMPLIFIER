@@ -46,6 +46,9 @@ vdd=3.3v p<=3mW  vicm=1.65V vocm=1.7V vp=0.5V .Perfrom DC analysis,transient ana
 ![Image](https://github.com/user-attachments/assets/b4f198a4-7beb-448f-9621-948385b08630)  
 
 # CIRCUIT 2 WITH CURRENT SOURCE  
+![Image](https://github.com/user-attachments/assets/a6ea24d5-38c0-4409-95b3-c34f43474616)  
+# 2.1 DC ANALYSIS  
+
 
 
 
