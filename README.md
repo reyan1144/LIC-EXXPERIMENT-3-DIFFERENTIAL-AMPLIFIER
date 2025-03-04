@@ -62,6 +62,18 @@ vdd=3.3v p<=3mW  vicm=1.65V vocm=1.7V vp=0.5V .Perfrom DC analysis,transient ana
 3.2 TRANSIENT ANALYSIS  
 ![Image](https://github.com/user-attachments/assets/abddc493-9399-4d84-9410-7f60855066bc)  
 3.3 AC ANALYSIS  
+![Image](https://github.com/user-attachments/assets/49f6f9c2-795b-432c-bb84-01e5d10836ff)  
+
+# RESULTS AND INFERENCE  
+1. Ensures MOSFETs are in the saturation region. Defines the Q-point (operating region) of the amplifier.  
+2. Determines differential gain and input and output swing.
+3. if we incrrease vicm id of mosfet 1 will decrease.
+
+Iss=0,45mA  
+Id1=Id2=Iss/2=0.225mA  
+Rd=7.11kohm  
+Rss=1.11kohm  
+
 
 
 
