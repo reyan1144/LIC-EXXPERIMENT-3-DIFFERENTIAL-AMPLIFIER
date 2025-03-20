@@ -101,6 +101,9 @@ GAIN(AV) = Vout/Vin = 0.1
 
 GAIN in dB is -20  
 
+# COMPARISON TABLE  
+
+
 
 # RESULTS AND INFERENCE  
 1. Ensures MOSFETs are in the saturation region. Defines the Q-point (operating region) of the amplifier.  
