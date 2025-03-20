@@ -90,9 +90,12 @@ NOW REPLACE TWO RD RESISTORS WITH PMOS
 4.1 DC ANALYSIS  
 ![Image](https://github.com/user-attachments/assets/babee48e-b3c4-40ef-a2af-bfc5fd6de059)  
 
-4.2 TRANSIENT ANALYSIS  
+4.2 TRANSIENT ANALYSIS   
+![Image](https://github.com/user-attachments/assets/67cbd8f8-ebab-4da8-8743-c38368269b90)  
 
+GAIN(AV) = Vout/Vin = 0.1  
 
+4.3 AC ANALYSIS  
 
 # RESULTS AND INFERENCE  
 1. Ensures MOSFETs are in the saturation region. Defines the Q-point (operating region) of the amplifier.  
