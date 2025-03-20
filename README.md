@@ -85,6 +85,9 @@ Gain in dB = 2log(Av) = 0dB
 
 #  CIRCUIT 4  
 NOW REPLACE TWO RD RESISTORS WITH PMOS  
+![Image](https://github.com/user-attachments/assets/f83457e9-74f6-4022-8b6b-14050cf8a782)
+
+4.1 DC ANALYSIS  
 
 
 # RESULTS AND INFERENCE  
