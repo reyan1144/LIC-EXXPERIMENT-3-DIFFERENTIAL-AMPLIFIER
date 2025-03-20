@@ -58,19 +58,26 @@ REPLACE THE RESISTOR WITH CURRENT SOURCE
 2.1 DC ANALYSIS  
 ![Image](https://github.com/user-attachments/assets/b40cda86-704c-4d71-8d52-5b547d2f1d5f)  
 2.2 TRANSIENT ANALYSIS  
+![Image](https://github.com/user-attachments/assets/7e9ed2df-1775-4f61-8e55-dd6fd7580397)  
 
+GAIN(AV) = Vout/Vin = 1.83 - 1.57 / 1.69 - 1.60 = 2.88  
 
 2.3 AC ANALYSIS  
+
 ![Image](https://github.com/user-attachments/assets/6560bcb1-602b-46df-ac4d-6c227576fc5f)  
 
+Gain in dB = 20log(2.88) = 9.18  
+
 # CIRCUIT 3 WITH NMOS  
+NOW REPLACE CURRENT SOURCE WITH NMOS  
 ![Image](https://github.com/user-attachments/assets/d108d1d2-adf3-4a0a-a42d-99be97b1a0ba)  
 3.1 DC ANALYSIS  
 ![Image](https://github.com/user-attachments/assets/f5d48a32-77ad-420e-8eeb-3e0e2945e367)  
 3.2 TRANSIENT ANALYSIS  
 ![Image](https://github.com/user-attachments/assets/abddc493-9399-4d84-9410-7f60855066bc)  
 
-GAIN(AV) = Vout/Vin = 
+GAIN(AV) = Vout/Vin = 1.7 - 1.6 / 
+
 3.3 AC ANALYSIS  
 ![Image](https://github.com/user-attachments/assets/49f6f9c2-795b-432c-bb84-01e5d10836ff)  
 
