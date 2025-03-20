@@ -88,6 +88,10 @@ NOW REPLACE TWO RD RESISTORS WITH PMOS
 ![Image](https://github.com/user-attachments/assets/f83457e9-74f6-4022-8b6b-14050cf8a782)
 
 4.1 DC ANALYSIS  
+![Image](https://github.com/user-attachments/assets/babee48e-b3c4-40ef-a2af-bfc5fd6de059)  
+
+4.2 TRANSIENT ANALYSIS  
+
 
 
 # RESULTS AND INFERENCE  
