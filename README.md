@@ -42,15 +42,23 @@ vdd=3.3v p<=3mW  vicm=1.65V vocm=1.7V vp=0.5V .Perfrom DC analysis,transient ana
 1.2 TRANSIENT ANALYSIS  
 ![Image](https://github.com/user-attachments/assets/a919dad9-6dae-4633-a26f-e51a1a1bd020)  
 
+Gain(AV)=Vout/Vin=1.77 - 1.63 / 1.69 - 1.60 = 1.5
+
 1.3 AC ANALYSIS  
 ![Image](https://github.com/user-attachments/assets/b4f198a4-7beb-448f-9621-948385b08630)  
 
+Gain = 20log(AV) = 20log(1.5) = 3.5dB
+
 # CIRCUIT 2 WITH CURRENT SOURCE  
+
+REPLACE THE RESISTOR WITH CURRENT SOURCE  
+
 ![Image](https://github.com/user-attachments/assets/a6ea24d5-38c0-4409-95b3-c34f43474616)  
+
 2.1 DC ANALYSIS  
 ![Image](https://github.com/user-attachments/assets/b40cda86-704c-4d71-8d52-5b547d2f1d5f)  
 2.2 TRANSIENT ANALYSIS  
-![Image](https://github.com/user-attachments/assets/ce977e20-ff43-4c2c-99ae-177f2d1ced06)  
+
 
 2.3 AC ANALYSIS  
 ![Image](https://github.com/user-attachments/assets/6560bcb1-602b-46df-ac4d-6c227576fc5f)  
@@ -61,6 +69,8 @@ vdd=3.3v p<=3mW  vicm=1.65V vocm=1.7V vp=0.5V .Perfrom DC analysis,transient ana
 ![Image](https://github.com/user-attachments/assets/f5d48a32-77ad-420e-8eeb-3e0e2945e367)  
 3.2 TRANSIENT ANALYSIS  
 ![Image](https://github.com/user-attachments/assets/abddc493-9399-4d84-9410-7f60855066bc)  
+
+GAIN(AV) = Vout/Vin = 
 3.3 AC ANALYSIS  
 ![Image](https://github.com/user-attachments/assets/49f6f9c2-795b-432c-bb84-01e5d10836ff)  
 
