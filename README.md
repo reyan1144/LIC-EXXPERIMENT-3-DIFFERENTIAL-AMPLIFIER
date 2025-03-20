@@ -97,6 +97,11 @@ GAIN(AV) = Vout/Vin = 0.1
 
 4.3 AC ANALYSIS  
 
+![Image](https://github.com/user-attachments/assets/216ba2ba-78c1-4e80-b5b3-08b81b431670)
+
+GAIN in dB is -20  
+
+
 # RESULTS AND INFERENCE  
 1. Ensures MOSFETs are in the saturation region. Defines the Q-point (operating region) of the amplifier.  
 2. Determines differential gain and input and output swing.
