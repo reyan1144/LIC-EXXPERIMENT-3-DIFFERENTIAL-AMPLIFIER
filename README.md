@@ -76,10 +76,16 @@ NOW REPLACE CURRENT SOURCE WITH NMOS
 3.2 TRANSIENT ANALYSIS  
 ![Image](https://github.com/user-attachments/assets/abddc493-9399-4d84-9410-7f60855066bc)  
 
-GAIN(AV) = Vout/Vin = 1.7 - 1.6 / 
+GAIN(AV) = Vout/Vin = 1.65 - 1.6 / 1.61 - 1.56 = 1
 
 3.3 AC ANALYSIS  
 ![Image](https://github.com/user-attachments/assets/49f6f9c2-795b-432c-bb84-01e5d10836ff)  
+
+Gain in dB = 2log(Av) = 0dB  
+
+#  CIRCUIT 4  
+NOW REPLACE TWO RD RESISTORS WITH PMOS  
+
 
 # RESULTS AND INFERENCE  
 1. Ensures MOSFETs are in the saturation region. Defines the Q-point (operating region) of the amplifier.  
